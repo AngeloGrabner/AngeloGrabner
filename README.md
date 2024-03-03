@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SDL2 & 10 finger typing**
 
-- 🎯 My goal for this year **getting into webdev**
+- 🎯 My goal for this year **getting to know web technologies better**
 
 
 <h3 align="left">Languages and Tools:</h3>
